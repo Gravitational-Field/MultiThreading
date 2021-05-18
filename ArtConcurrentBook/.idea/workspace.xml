@@ -1,0 +1,175 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="d43eb170-357b-4165-b7a6-66504cf0148a" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ArtConcurrentBook.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JucCode/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JucCode/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JucCode/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JucCode/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JucCode/JucCode.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JucCode/src/com/cafe/ours/CallableThreadTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JucCode/src/com/cafe/ours/ThreadDemo1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JucCode/src/com/cafe/ours/ThreadDemo2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../README.md" beforeDir="false" afterPath="$PROJECT_DIR$/../README.md" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="$PROJECT_DIR$/../../../../../../../Program Files/Java/maven/apache-maven-3.6.3-bin/apache-maven-3.6.3" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="downloadAnnotationsAutomatically" value="true" />
+        <option name="downloadDocsAutomatically" value="true" />
+        <option name="downloadSourcesAutomatically" value="true" />
+        <option name="vmOptionsForImporter" value="-Xmx768m" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1rBUFjJ0BmHRnkGB7qkSqjGxEyx" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+  </component>
+  <component name="RunManager" selected="Application.Interrupted">
+    <configuration name="Daemon" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="chapter04.Daemon" />
+      <module name="ArtConcurrentBook" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="chapter04.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Interrupted" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="chapter04.Interrupted" />
+      <module name="ArtConcurrentBook" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="chapter04.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MultiThread" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="chapter04.MultiThread" />
+      <module name="ArtConcurrentBook" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="chapter04.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Priority" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="chapter04.Priority" />
+      <module name="ArtConcurrentBook" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="chapter04.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ThreadState" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="chapter04.ThreadState" />
+      <module name="ArtConcurrentBook" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="chapter04.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Interrupted" />
+        <item itemvalue="Application.Daemon" />
+        <item itemvalue="Application.ThreadState" />
+        <item itemvalue="Application.Priority" />
+        <item itemvalue="Application.MultiThread" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d43eb170-357b-4165-b7a6-66504cf0148a" name="Default Changelist" comment="" />
+      <created>1618448874140</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1618448874140</updated>
+      <workItem from="1618448875296" duration="7768000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="741" y="274" key="FileChooserDialogImpl" timestamp="1618449009426">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="741" y="274" key="FileChooserDialogImpl/0.0.1920.1040/-1080.-432.1080.1880@0.0.1920.1040" timestamp="1618449009426" />
+    <state width="1877" height="123" key="GridCell.Tab.0.bottom" timestamp="1618483561811">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="123" key="GridCell.Tab.0.bottom/0.0.1920.1040/-1080.-432.1080.1880@0.0.1920.1040" timestamp="1618483561811" />
+    <state width="1877" height="123" key="GridCell.Tab.0.center" timestamp="1618483561810">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="123" key="GridCell.Tab.0.center/0.0.1920.1040/-1080.-432.1080.1880@0.0.1920.1040" timestamp="1618483561810" />
+    <state width="1877" height="123" key="GridCell.Tab.0.left" timestamp="1618483561810">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="123" key="GridCell.Tab.0.left/0.0.1920.1040/-1080.-432.1080.1880@0.0.1920.1040" timestamp="1618483561810" />
+    <state width="1877" height="123" key="GridCell.Tab.0.right" timestamp="1618483561811">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="123" key="GridCell.Tab.0.right/0.0.1920.1040/-1080.-432.1080.1880@0.0.1920.1040" timestamp="1618483561811" />
+    <state x="551" y="272" width="998" height="708" key="SettingsEditor" timestamp="1618449187104">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="551" y="272" width="998" height="708" key="SettingsEditor/0.0.1920.1040/-1080.-432.1080.1880@0.0.1920.1040" timestamp="1618449187104" />
+  </component>
+</project>
