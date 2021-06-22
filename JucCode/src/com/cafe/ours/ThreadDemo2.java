@@ -2,7 +2,7 @@ package com.cafe.ours;
 
 /**
  * @ClassName ThreadDemo2
- * @Description: TODO
+ * @Description: 实现 Runnable 接口的类
  * @Author Keen
  * @DATE 2021/4/14 21:40
  * @Version 1.0
@@ -46,5 +46,4 @@ public class ThreadDemo2 implements Runnable{
         ThreadDemo2 R2 = new ThreadDemo2( "Thread-2");
         R2.start();
     }
-
 }
